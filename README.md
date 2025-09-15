@@ -11,18 +11,18 @@ A simple project built by using HTML and CSS flexbox. This replicates a UI of Ud
 ───────────────────────────────────────────────────────────────────────────────
 📁Project Structure
 
-|── 📁 images/
-│   ├── 🖼️ c-1.jpg
-│   ├── 🖼️ c-2.jpg
-│   ├── 🖼️ c-3.jpg
-│   ├── 🖼️ c-4.jpg
-│   ├── 🖼️ c-5.jpg
-│   ├── 🖼️ c-6.jpg
-│   ├── 🖼️ c-7.jpg
-│   ├── 🖼️ c-8.jpg
-│   └── 🖼️ sale-image.jpg
-├── 📖 README.md
-├── 🌐 index.html
+|── images
+|   ├── 🖼️ c-1.jpg     
+|   ├── 🖼️ c-2.jpg  
+|   ├── 🖼️ c-3.jpg   
+|   ├── 🖼️ c-4.jpg  
+|   ├── 🖼️ c-5.jpg  
+|   ├── 🖼️ c-6.jpg  
+|   ├── 🖼️ c-7.jpg  
+|   ├── 🖼️ c-8.jpg  
+|   ├── 🖼️ sale-image.jpg  
+|── 📖 README.md
+|── 🌐 index.html
 └── 🎨 style.css
 
 ───────────────────────────────────────────────────────────────────────────────
